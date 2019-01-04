@@ -300,3 +300,47 @@ System.out.println() : sout
 윈도우, 리눅스 : Ctrl + Alt + L
 ```
 
+
+### Git 기본 기능 사용하기
+
+- Git View On
+```
+맥 : Cmd + 9 
+윈도우, 리눅스 : Alt + 9
+```
+
+- Git Option Popup
+```
+맥 : Ctrl + V 
+윈도우, 리눅스 : Alt + `
+```
+
+- Git History
+```
+맥 : Ctrl + V => 4 
+윈도우, 리눅스 : Alt + ` => 4
+```
+
+- Git Branch
+```
+맥 : Ctrl + V => 7
+윈도우, 리눅스 : Alt + ` => 7
+```
+
+- Commit
+```
+맥 : Cmd + K
+윈도우, 리눅스 : Ctrl + K
+```
+
+- Push
+```
+맥 : Cmd + Shift + K
+윈도우, 리눅스 : Ctrl + Shift + K
+```
+
+- Pull 단축키 없음
+```
+맥 : Cmd + Shift + A (action 검색) ==> git pull
+윈도우, 리눅스 : Ctrl + Shift + A (action 검색) ==> git pull
+```
